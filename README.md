@@ -1,4 +1,4 @@
 # Desert Swallow
 
 Capstone Design files
-![Alt text](/Pictures/persp.PNG?raw=true "Perspective")
+![Alt text](/Pictures/Persp.PNG?raw=true "Perspective")
